@@ -64,18 +64,19 @@ This project utilizes the following tools:
 ## Results and Conclusions
 
 ### Financial Analysis Summary
-- **Total Months Analyzed**: `<calculated value>`
-- **Net Total Profit/Loss**: `<calculated value>`
-- **Average Change in Profit/Loss**: `<calculated value>`
-- **Greatest Increase in Profits**: `<calculated value>`
-- **Greatest Decrease in Profits**: `<calculated value>`
+- **Total Months Analyzed**: 86
+- **Net Total Profit/Loss**: 22564198
+- **Average Change in Profit/Loss**: $-8311.105882
+- **Greatest Increase in Profits**: Aug-16 ($1862002)
+- **Greatest Decrease in Profits**: Feb-14 ($-1825558)
 
 ### Election Results Summary
-- **Total Votes Cast**: `<calculated value>`
+- **Total Votes Cast**: 369711
 - **Candidate Vote Shares**:
-  - Candidate 1: `<percentage>` (`<vote count>`)
-  - Candidate 2: `<percentage>` (`<vote count>`)
-- **Winner**: `<candidate name>`
+  - Charles Casper Stockham: 23.0% (85213)
+  - Diana DeGette: 73.8% (272892)
+  - Raymon Anthony Doane: 3.1% (11606)
+- **Winner**: Diana DeGette
 
 ---
 
